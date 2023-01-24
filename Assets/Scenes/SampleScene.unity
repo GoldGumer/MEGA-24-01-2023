@@ -338,6 +338,7 @@ MonoBehaviour:
   - 0
   - 0
   - 0
+  divA: 1
 --- !u!4 &1253915912
 Transform:
   m_ObjectHideFlags: 0
